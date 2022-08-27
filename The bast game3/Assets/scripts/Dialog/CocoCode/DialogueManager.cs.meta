@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85a9af98c76282a409e7c25a519ce9b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - actorImage: {instanceID: 0}
+  - actorName: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - backgroundBox: {instanceID: 0}
+  - trigger: {fileID: 482176000325231, guid: a046b9de8e3db234094f738a2e4f79e3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

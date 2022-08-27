@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: 749bdd2a171c4f241bd10b9b969a4807
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1786864902285649365
+    second: UndegraundNewAgain_2_0
+  - first:
+      213: 6318603245302859759
+    second: UndegraundNewAgain_2_1
+  - first:
+      213: 2451910885947672245
+    second: UndegraundNewAgain_2_2
+  - first:
+      213: 2326215965957180800
+    second: UndegraundNewAgain_2_3
+  - first:
+      213: -1540950420933015944
+    second: UndegraundNewAgain_2_4
+  - first:
+      213: -529726218339956130
+    second: UndegraundNewAgain_2_5
+  - first:
+      213: 1307062556379123599
+    second: UndegraundNewAgain_2_6
+  - first:
+      213: 4270913698416684097
+    second: UndegraundNewAgain_2_7
+  - first:
+      213: 8348243687995052526
+    second: UndegraundNewAgain_2_8
+  - first:
+      213: -5286017642110298958
+    second: UndegraundNewAgain_2_9
+  - first:
+      213: -1656358587907077491
+    second: UndegraundNewAgain_2_10
+  - first:
+      213: -7658268658986001165
+    second: UndegraundNewAgain_2_11
+  - first:
+      213: 1475196718871682694
+    second: UndegraundNewAgain_2_12
+  - first:
+      213: -2332266794971512471
+    second: UndegraundNewAgain_2_13
+  - first:
+      213: -1313435737623025646
+    second: UndegraundNewAgain_2_14
+  - first:
+      213: -8723219183307766254
+    second: UndegraundNewAgain_2_15
+  - first:
+      213: -480812741068231727
+    second: UndegraundNewAgain_2_16
+  - first:
+      213: -2509235678227265359
+    second: UndegraundNewAgain_2_17
+  - first:
+      213: 1271818624776020059
+    second: UndegraundNewAgain_2_18
+  - first:
+      213: 4836977513330100814
+    second: UndegraundNewAgain_2_19
+  - first:
+      213: 5437733198189481189
+    second: UndegraundNewAgain_2_20
+  - first:
+      213: -1958053575198629922
+    second: UndegraundNewAgain_2_21
+  - first:
+      213: -8647092970449211060
+    second: UndegraundNewAgain_2_22
+  - first:
+      213: 2733024554461121805
+    second: UndegraundNewAgain_2_23
+  - first:
+      213: -6756214255536546273
+    second: UndegraundNewAgain_2_24
+  - first:
+      213: 8462726191845764914
+    second: UndegraundNewAgain_2_25
+  - first:
+      213: -1840624296402280449
+    second: UndegraundNewAgain_2_26
+  - first:
+      213: -740247430751717816
+    second: UndegraundNewAgain_2_27
+  - first:
+      213: 1330326987393996223
+    second: UndegraundNewAgain_2_28
+  - first:
+      213: -4068315992172490815
+    second: UndegraundNewAgain_2_29
+  - first:
+      213: -7880025134941188223
+    second: UndegraundNewAgain_2_30
+  - first:
+      213: 550970678679628726
+    second: UndegraundNewAgain_2_31
+  - first:
+      213: -2008891483469112671
+    second: UndegraundNewAgain_2_32
+  - first:
+      213: -811821361869278738
+    second: UndegraundNewAgain_2_33
+  - first:
+      213: -9162268877795921803
+    second: UndegraundNewAgain_2_34
+  - first:
+      213: 6054028358548706535
+    second: UndegraundNewAgain_2_35
+  - first:
+      213: -3740937286788295202
+    second: UndegraundNewAgain_2_36
+  - first:
+      213: 8614096495257928930
+    second: UndegraundNewAgain_2_37
+  - first:
+      213: -520357590736122319
+    second: UndegraundNewAgain_2_38
+  - first:
+      213: -2982881017405131243
+    second: UndegraundNewAgain_2_39
+  - first:
+      213: 7827242048257286565
+    second: UndegraundNewAgain_2_40
+  - first:
+      213: -769889126884139182
+    second: UndegraundNewAgain_2_41
+  - first:
+      213: 3817266945059173166
+    second: UndegraundNewAgain_2_42
+  - first:
+      213: -7580780256185160938
+    second: UndegraundNewAgain_2_43
+  - first:
+      213: -3314413730659473219
+    second: UndegraundNewAgain_2_44
+  - first:
+      213: -4596658474248376009
+    second: UndegraundNewAgain_2_45
+  - first:
+      213: -6852979010066984955
+    second: UndegraundNewAgain_2_46
+  - first:
+      213: -187953500510444419
+    second: UndegraundNewAgain_2_47
+  - first:
+      213: -5837454758006280469
+    second: UndegraundNewAgain_2_48
+  - first:
+      213: -9179656131127066469
+    second: UndegraundNewAgain_2_49
+  - first:
+      213: 1177084926101714386
+    second: UndegraundNewAgain_2_50
+  - first:
+      213: 7420401555392766996
+    second: UndegraundNewAgain_2_51
+  - first:
+      213: -1485819082834523927
+    second: UndegraundNewAgain_2_52
+  - first:
+      213: 1925106928319130055
+    second: UndegraundNewAgain_2_53
+  - first:
+      213: -5313100683569416394
+    second: UndegraundNewAgain_2_54
+  - first:
+      213: -1877874569366677647
+    second: UndegraundNewAgain_2_55
+  - first:
+      213: 5529618643246897835
+    second: UndegraundNewAgain_2_56
+  - first:
+      213: -6094586708554412890
+    second: UndegraundNewAgain_2_57
+  - first:
+      213: -6815889353702514675
+    second: UndegraundNewAgain_2_58
+  - first:
+      213: 78043347245287580
+    second: UndegraundNewAgain_2_59
+  - first:
+      213: -7743497635514813657
+    second: UndegraundNewAgain_2_60
+  - first:
+      213: 5761294076326167428
+    second: UndegraundNewAgain_2_61
+  - first:
+      213: 1493802673589827014
+    second: UndegraundNewAgain_2_62
+  - first:
+      213: 4265102130590052960
+    second: UndegraundNewAgain_2_63
+  - first:
+      213: 7530305932526683486
+    second: UndegraundNewAgain_2_64
+  - first:
+      213: 2064097229720646240
+    second: UndegraundNewAgain_2_65
+  - first:
+      213: -6089203759946977943
+    second: UndegraundNewAgain_2_66
+  - first:
+      213: -3332989787009924802
+    second: UndegraundNewAgain_2_67
+  - first:
+      213: 4732073681017450099
+    second: UndegraundNewAgain_2_68
+  - first:
+      213: -3034270588336123093
+    second: UndegraundNewAgain_2_69
+  - first:
+      213: -7498415798295362955
+    second: UndegraundNewAgain_2_70
+  - first:
+      213: 4116067130882421521
+    second: UndegraundNewAgain_2_71
+  - first:
+      213: 919756842148565762
+    second: UndegraundNewAgain_2_72
+  - first:
+      213: -5775457073692547126
+    second: UndegraundNewAgain_2_73
+  - first:
+      213: 798248620852033241
+    second: UndegraundNewAgain_2_74
+  - first:
+      213: 5955468759114426387
+    second: UndegraundNewAgain_2_75
+  - first:
+      213: 7956730919624106883
+    second: UndegraundNewAgain_2_76
+  - first:
+      213: -288026765632789022
+    second: UndegraundNewAgain_2_77
+  - first:
+      213: 2428751307119328977
+    second: UndegraundNewAgain_2_78
+  - first:
+      213: -6931617551350181059
+    second: UndegraundNewAgain_2_79
+  - first:
+      213: -8080580967312416113
+    second: UndegraundNewAgain_2_80
+  - first:
+      213: 8487913130819823347
+    second: UndegraundNewAgain_2_81
+  - first:
+      213: -1280782813507097393
+    second: UndegraundNewAgain_2_82
+  - first:
+      213: -7891495098685263543
+    second: UndegraundNewAgain_2_83
+  - first:
+      213: 2039072771948343365
+    second: UndegraundNewAgain_2_84
+  - first:
+      213: -1954559700160820772
+    second: UndegraundNewAgain_2_85
+  - first:
+      213: -170132642057072990
+    second: UndegraundNewAgain_2_86
+  - first:
+      213: -6516375840266324574
+    second: UndegraundNewAgain_2_87
+  - first:
+      213: 7108341364241019207
+    second: UndegraundNewAgain_2_88
+  - first:
+      213: 5169612270152125093
+    second: UndegraundNewAgain_2_89
+  - first:
+      213: -3305527709093003096
+    second: UndegraundNewAgain_2_90
+  - first:
+      213: 2142333976457673738
+    second: UndegraundNewAgain_2_91
+  - first:
+      213: 5211908323140243618
+    second: UndegraundNewAgain_2_92
+  - first:
+      213: 7444890637064854319
+    second: UndegraundNewAgain_2_93
+  - first:
+      213: 5027441765421407166
+    second: UndegraundNewAgain_2_94
+  - first:
+      213: 6331035398087446749
+    second: UndegraundNewAgain_2_95
+  - first:
+      213: 6353298423556993333
+    second: UndegraundNewAgain_2_96
+  - first:
+      213: -4299170418756637904
+    second: UndegraundNewAgain_2_97
+  - first:
+      213: 3360865676666809667
+    second: UndegraundNewAgain_2_98
+  - first:
+      213: 7850574005499512276
+    second: UndegraundNewAgain_2_99
+  - first:
+      213: -3597231658043270256
+    second: UndegraundNewAgain_2_100
+  - first:
+      213: 3580605075359682500
+    second: UndegraundNewAgain_2_101
+  - first:
+      213: 2307791425570450434
+    second: UndegraundNewAgain_2_102
+  - first:
+      213: -8197072264554776420
+    second: UndegraundNewAgain_2_103
+  - first:
+      213: 4803593587831000850
+    second: UndegraundNewAgain_2_104
+  - first:
+      213: 51916893341077278
+    second: UndegraundNewAgain_2_105
+  - first:
+      213: 1065567367476160536
+    second: UndegraundNewAgain_2_106
+  - first:
+      213: -480244225968816599
+    second: UndegraundNewAgain_2_107
+  - first:
+      213: 3263705639935678986
+    second: UndegraundNewAgain_2_108
+  - first:
+      213: -45294065714567765
+    second: UndegraundNewAgain_2_109
+  - first:
+      213: -1854613924854061128
+    second: UndegraundNewAgain_2_110
+  - first:
+      213: 4807385666719635482
+    second: UndegraundNewAgain_2_111
+  - first:
+      213: 6426965386263249076
+    second: UndegraundNewAgain_2_112
+  - first:
+      213: 7563968056191419497
+    second: UndegraundNewAgain_2_113
+  - first:
+      213: 8579173558605028066
+    second: UndegraundNewAgain_2_114
+  - first:
+      213: 9605394022123864
+    second: UndegraundNewAgain_2_115
+  - first:
+      213: -7931325464933089306
+    second: UndegraundNewAgain_2_116
+  - first:
+      213: -463307299968810566
+    second: UndegraundNewAgain_2_117
+  - first:
+      213: -2128545280082595655
+    second: UndegraundNewAgain_2_118
+  - first:
+      213: 7636374620964924415
+    second: UndegraundNewAgain_2_119
+  - first:
+      213: -8058069955183279997
+    second: UndegraundNewAgain_2_120
+  - first:
+      213: 59394748333020945
+    second: UndegraundNewAgain_2_121
+  - first:
+      213: -3704479899116647021
+    second: UndegraundNewAgain_2_122
+  - first:
+      213: -4090319887579045230
+    second: UndegraundNewAgain_2_123
+  - first:
+      213: 1534534055668069319
+    second: UndegraundNewAgain_2_124
+  - first:
+      213: -4950847581136953249
+    second: UndegraundNewAgain_2_125
+  - first:
+      213: 1445179565426945363
+    second: UndegraundNewAgain_2_126
+  - first:
+      213: 4735115344417986828
+    second: UndegraundNewAgain_2_127
+  - first:
+      213: 756825025345583505
+    second: UndegraundNewAgain_2_128
+  - first:
+      213: -4166862635825832923
+    second: UndegraundNewAgain_2_129
+  - first:
+      213: -7654885167125232229
+    second: UndegraundNewAgain_2_130
+  - first:
+      213: 6180662051168727683
+    second: UndegraundNewAgain_2_131
+  - first:
+      213: 303746054498079844
+    second: UndegraundNewAgain_2_132
+  - first:
+      213: -6871322441247385289
+    second: UndegraundNewAgain_2_133
+  - first:
+      213: -7804967471042576662
+    second: UndegraundNewAgain_2_134
+  - first:
+      213: 5913552092501244574
+    second: UndegraundNewAgain_2_135
+  - first:
+      213: 6808919368274699409
+    second: UndegraundNewAgain_2_136
+  - first:
+      213: 7437597943972718895
+    second: UndegraundNewAgain_2_137
+  - first:
+      213: -2671802938644630718
+    second: UndegraundNewAgain_2_138
+  - first:
+      213: -152824894654063254
+    second: UndegraundNewAgain_2_139
+  - first:
+      213: -3225641418925324559
+    second: UndegraundNewAgain_2_140
+  - first:
+      213: -4092654738217480077
+    second: UndegraundNewAgain_2_141
+  - first:
+      213: -8470014518716604436
+    second: UndegraundNewAgain_2_142
+  - first:
+      213: 2488344849941126716
+    second: UndegraundNewAgain_2_143
+  - first:
+      213: -6768930071818024543
+    second: UndegraundNewAgain_2_144
+  - first:
+      213: 8523069988475267892
+    second: UndegraundNewAgain_2_145
+  - first:
+      213: -8705742321003976148
+    second: UndegraundNewAgain_2_146
+  - first:
+      213: -3497022337494348773
+    second: UndegraundNewAgain_2_147
+  - first:
+      213: 1722391729822349509
+    second: UndegraundNewAgain_2_148
+  - first:
+      213: -3477692570197232018
+    second: UndegraundNewAgain_2_149
+  - first:
+      213: 3659882100906751097
+    second: UndegraundNewAgain_2_150
+  - first:
+      213: -2008147311917744421
+    second: UndegraundNewAgain_2_151
+  - first:
+      213: 2931860912900608140
+    second: UndegraundNewAgain_2_152
+  - first:
+      213: -4613240316550348942
+    second: UndegraundNewAgain_2_153
+  - first:
+      213: -3080382156454220365
+    second: UndegraundNewAgain_2_154
+  - first:
+      213: 1688016479212729646
+    second: UndegraundNewAgain_2_155
+  - first:
+      213: -8339599458956589347
+    second: UndegraundNewAgain_2_156
+  - first:
+      213: 3209059465143762284
+    second: UndegraundNewAgain_2_157
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a96ada6d7c337e0800000000000000
+      internalID: -1786864902285649365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe748e89c2030b750800000000000000
+      internalID: 6318603245302859759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b603d1c5ffe60220800000000000000
+      internalID: 2451910885947672245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d48b1a811684020800000000000000
+      internalID: 2326215965957180800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768cc7a1c17d9ae0800000000000000
+      internalID: -1540950420933015944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac2af9fc806a8f0800000000000000
+      internalID: -529726218339956130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f013c487e932210800000000000000
+      internalID: 1307062556379123599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce9746165554b30800000000000000
+      internalID: 4270913698416684097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19751476bead370800000000000000
+      internalID: 8348243687995052526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4519506fa44a6b0800000000000000
+      internalID: -5286017642110298958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a812bd3ae6309e0800000000000000
+      internalID: -1656358587907077491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1152
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd1aada3d58b590800000000000000
+      internalID: -7658268658986001165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1b229993f87410800000000000000
+      internalID: 1475196718871682694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c844f4bf12afd0800000000000000
+      internalID: -2332266794971512471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182dafc72db5cde0800000000000000
+      internalID: -1313435737623025646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164111de56e0f680800000000000000
+      internalID: -8723219183307766254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db65250c5fc359f0800000000000000
+      internalID: -480812741068231727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b80785f1776d2dd0800000000000000
+      internalID: -2509235678227265359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5020840d4866a110800000000000000
+      internalID: 1271818624776020059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac794cb65602340800000000000000
+      internalID: 4836977513330100814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecce6d8885b67b40800000000000000
+      internalID: 5437733198189481189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf1a17c5a893d4e0800000000000000
+      internalID: -1958053575198629922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f894f1ca5ff780800000000000000
+      internalID: -8647092970449211060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d43132a57ade520800000000000000
+      internalID: 2733024554461121805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e50583eea1d32a0800000000000000
+      internalID: -6756214255536546273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6c5052a4a17570800000000000000
+      internalID: 8462726191845764914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_26
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff1df754f9c476e0800000000000000
+      internalID: -1840624296402280449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_27
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f52c32ec1ab5f0800000000000000
+      internalID: -740247430751717816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_28
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1104
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51cbeb855467210800000000000000
+      internalID: 1330326987393996223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf8484f8207a87c0800000000000000
+      internalID: -4068315992172490815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f4ea2d3e684a290800000000000000
+      internalID: -7880025134941188223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbea50c9e075a700800000000000000
+      internalID: 550970678679628726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa148fd6dbfe14e0800000000000000
+      internalID: -2008891483469112671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee135b8c5c4dbb4f0800000000000000
+      internalID: -811821361869278738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5707b5adff419d080800000000000000
+      internalID: -9162268877795921803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_35
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4df6b67ba340450800000000000000
+      internalID: 6054028358548706535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed558f5ab55851cc0800000000000000
+      internalID: -3740937286788295202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_37
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e449cc7f1b6b8770800000000000000
+      internalID: 8614096495257928930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ecef7378157c8f0800000000000000
+      internalID: -520357590736122319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516bf46c48daa96d0800000000000000
+      internalID: -2982881017405131243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_40
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a160612c23ff9c60800000000000000
+      internalID: 7827242048257286565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_41
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f92ab0bedc055f0800000000000000
+      internalID: -769889126884139182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_42
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b711df08a9f430800000000000000
+      internalID: 3817266945059173166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be9cd8588abc690800000000000000
+      internalID: -7580780256185160938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_44
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86d51c546d002d0800000000000000
+      internalID: -3314413730659473219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_45
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f2a8c8736530c0800000000000000
+      internalID: -4596658474248376009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_46
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500dfb326e355e0a0800000000000000
+      internalID: -6852979010066984955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_47
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1056
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a8cf7941446df0800000000000000
+      internalID: -187953500510444419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2f9463d13dfea0800000000000000
+      internalID: -5837454758006280469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1008
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b904fe7726f4b9080800000000000000
+      internalID: -9179656131127066469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1008
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d572caf088d55010800000000000000
+      internalID: 1177084926101714386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1008
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41421ff46ef8af660800000000000000
+      internalID: 7420401555392766996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1008
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8c6279a6f416be0800000000000000
+      internalID: -1485819082834523927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1008
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ea193d8a57ba10800000000000000
+      internalID: 1925106928319130055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637b5fb04131446b0800000000000000
+      internalID: -5313100683569416394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d820570370f5e0800000000000000
+      internalID: -1877874569366677647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baadb1edbd62dbc40800000000000000
+      internalID: 5529618643246897835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0cc7ddadab6ba0800000000000000
+      internalID: -6094586708554412890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e134beb81961a0800000000000000
+      internalID: -6815889353702514675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9843a5c204451100800000000000000
+      internalID: 78043347245287580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ff046de1998490800000000000000
+      internalID: -7743497635514813657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_61
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cbf1107a34ff40800000000000000
+      internalID: 5761294076326167428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_62
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5b9dbfd9d0bb410800000000000000
+      internalID: 1493802673589827014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_63
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f4905acfa03b30800000000000000
+      internalID: 4265102130590052960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_64
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55054e2955018860800000000000000
+      internalID: 7530305932526683486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_65
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062fd5f8e7525ac10800000000000000
+      internalID: 2064097229720646240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_66
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d236b317dce7ba0800000000000000
+      internalID: -6089203759946977943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_67
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c4499277deb1d0800000000000000
+      internalID: -3332989787009924802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_68
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2508f0f3bba140800000000000000
+      internalID: 4732073681017450099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_69
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 960
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b235fc5e9fa14e5d0800000000000000
+      internalID: -3034270588336123093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5728d6c4f8640f790800000000000000
+      internalID: -7498415798295362955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11378e76f353f1930800000000000000
+      internalID: 4116067130882421521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203100099f1a3cc00800000000000000
+      internalID: 919756842148565762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e903246479dfa0800000000000000
+      internalID: -5775457073692547126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6b45034e2f31b00800000000000000
+      internalID: 798248620852033241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a3f1784316a250800000000000000
+      internalID: 5955468759114426387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ef856d9cfb6e60800000000000000
+      internalID: 7956730919624106883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e527a4ce29b00cf0800000000000000
+      internalID: -288026765632789022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defc9c1278a4b120800000000000000
+      internalID: 2428751307119328977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_79
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d8e4ff82fdcf90800000000000000
+      internalID: -6931617551350181059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_80
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82af884c620cdf80800000000000000
+      internalID: -8080580967312416113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_81
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a3e685002bc570800000000000000
+      internalID: 8487913130819823347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_82
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcceb7621deb93ee0800000000000000
+      internalID: -1280782813507097393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_83
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f028c407cb7290800000000000000
+      internalID: -7891495098685263543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_84
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f623f1ed3c4c10800000000000000
+      internalID: 2039072771948343365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_85
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9ce93fe4200e4e0800000000000000
+      internalID: -1954559700160820772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_86
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae4d71734193adf0800000000000000
+      internalID: -170132642057072990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_87
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5fcf1d2be2195a0800000000000000
+      internalID: -6516375840266324574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_88
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413dc52fc6e5a260800000000000000
+      internalID: 7108341364241019207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_89
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 912
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0bec48f62eb740800000000000000
+      internalID: 5169612270152125093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00d40ef086022d0800000000000000
+      internalID: -3305527709093003096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7209a6691bbd10800000000000000
+      internalID: 2142333976457673738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a01daa810b645840800000000000000
+      internalID: 5211908323140243618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd1e5f690915760800000000000000
+      internalID: 7444890637064854319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbd7ec26af05c540800000000000000
+      internalID: 5027441765421407166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_95
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd01d6bb62b5cd750800000000000000
+      internalID: 6331035398087446749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_96
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f92841437b2850800000000000000
+      internalID: 6353298423556993333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_97
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba42938474654c0800000000000000
+      internalID: -4299170418756637904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_98
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d278bb68134ae20800000000000000
+      internalID: 3360865676666809667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_99
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 864
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c6b0c677d2fc60800000000000000
+      internalID: 7850574005499512276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9a8fadd0141ec0800000000000000
+      internalID: -3597231658043270256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_101
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf46cd585dd0b130800000000000000
+      internalID: 3580605075359682500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca1d8031ce60020800000000000000
+      internalID: 2307791425570450434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_103
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98710194362e3e80800000000000000
+      internalID: -8197072264554776420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc208eaeac9a240800000000000000
+      internalID: 4803593587831000850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_105
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fcf61b32278b000800000000000000
+      internalID: 51916893341077278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_106
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182aa600e7a9ce00800000000000000
+      internalID: 1065567367476160536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_107
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e32b1cb64d559f0800000000000000
+      internalID: -480244225968816599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_108
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1ec7dcf20b4d20800000000000000
+      internalID: 3263705639935678986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_109
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba566a689451f5ff0800000000000000
+      internalID: -45294065714567765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_110
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a49526761346e0800000000000000
+      internalID: -1854613924854061128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_111
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d0231bc347b240800000000000000
+      internalID: 4807385666719635482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_112
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c3ff97fa213950800000000000000
+      internalID: 6426965386263249076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_113
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 816
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96401b91fdc98f860800000000000000
+      internalID: 7563968056191419497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea931ba5e85f0770800000000000000
+      internalID: 8579173558605028066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859cd921e00222000800000000000000
+      internalID: 9605394022123864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_116
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef37a8f2854ee190800000000000000
+      internalID: -7931325464933089306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1838327700299f0800000000000000
+      internalID: -463307299968810566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_118
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b7546853e572e0800000000000000
+      internalID: -2128545280082595655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_119
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2c6e224ad9f960800000000000000
+      internalID: 7636374620964924415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_120
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3808d0ab11cfb2090800000000000000
+      internalID: -8058069955183279997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_121
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d9eb753303d000800000000000000
+      internalID: 59394748333020945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_122
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc39fa82b079cc0800000000000000
+      internalID: -3704479899116647021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_123
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a223dbb34c37c0800000000000000
+      internalID: -4090319887579045230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_124
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b5d3e792cb4510800000000000000
+      internalID: 1534534055668069319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_125
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 768
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ea3d0b5e0b4bb0800000000000000
+      internalID: -4950847581136953249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_126
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 672
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2de9682f4e0410800000000000000
+      internalID: 1445179565426945363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_127
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 672
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09198a615286b140800000000000000
+      internalID: 4735115344417986828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_128
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 672
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19979d8c958c08a00800000000000000
+      internalID: 756825025345583505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_129
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 672
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd0cb72845c26c0800000000000000
+      internalID: -4166862635825832923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_130
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9508117f7264c590800000000000000
+      internalID: -7654885167125232229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_131
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38236a4936f16c550800000000000000
+      internalID: 6180662051168727683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_132
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d8406d6f173400800000000000000
+      internalID: 303746054498079844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739974045a824a0a0800000000000000
+      internalID: -6871322441247385289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_134
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee3705007f2fa390800000000000000
+      internalID: -7804967471042576662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_135
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afd4afb48211250800000000000000
+      internalID: 5913552092501244574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_136
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946a4a17142e7e50800000000000000
+      internalID: 6808919368274699409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296ba88ce7a73760800000000000000
+      internalID: 7437597943972718895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243fd341269dbead0800000000000000
+      internalID: -2671802938644630718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_139
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dde49619e01edf0800000000000000
+      internalID: -152824894654063254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_140
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64b2c38383c33d0800000000000000
+      internalID: -3225641418925324559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_141
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705a3c0338f337c0800000000000000
+      internalID: -4092654738217480077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_142
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefde79dba6747a80800000000000000
+      internalID: -8470014518716604436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed96b0570688220800000000000000
+      internalID: 2488344849941126716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_144
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9c3d786fdef02a0800000000000000
+      internalID: -6768930071818024543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_145
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6cd25ff6084670800000000000000
+      internalID: 8523069988475267892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a297aeb7dfe2780800000000000000
+      internalID: -8705742321003976148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_147
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 576
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c0b0a46b4187fc0800000000000000
+      internalID: -3497022337494348773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b124172a27e710800000000000000
+      internalID: 1722391729822349509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_149
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f0637801ccbfc0800000000000000
+      internalID: -3477692570197232018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_150
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9747b5041638ac230800000000000000
+      internalID: 3659882100906751097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_151
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdebc70d8a0a124e0800000000000000
+      internalID: -2008147311917744421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_152
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801b4477ff00b820800000000000000
+      internalID: 2931860912900608140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_153
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f7184cf5a7affb0800000000000000
+      internalID: -4613240316550348942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_154
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2810dfb84045d0800000000000000
+      internalID: -3080382156454220365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_155
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25fa7a5b0a0d6710800000000000000
+      internalID: 1688016479212729646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_156
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64ad72a7ac34c80800000000000000
+      internalID: -8339599458956589347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndegraundNewAgain_2_157
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 528
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dbffac49ed88c20800000000000000
+      internalID: 3209059465143762284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

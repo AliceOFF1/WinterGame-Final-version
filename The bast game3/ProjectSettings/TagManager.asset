@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - elevator
+  - workoil
+  - col.tag
+  - Weapon
+  - obs
+  - enemy
+  - DestroyPoint
+  - Mouving_platform
+  - NPS
+  - fax
+  - WoodForFire
+  - Train
+  - MountainDoor
+  - fire
+  - Ground
+  - SnowBoll
+  - FireHolderTrigger
+  - IseDie
+  - Antenna
+  - StoneDanger
+  - TriggerPlatform
+  - Fishing
+  - Trigger
+  - TrainTrigger
+  - wolf
+  - fish
+  - puller
+  - tramp
+  - EnemyEat
+  - DieZone
+  - ChekPoint
+  - FallDetector
+  - home
+  - item
+  - Eat
+  - food
+  - cramous
+  - woodobs
+  - Dialog
+  - Stove
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Item
+  - Player
+  - Weapon
+  - enemy
+  - NoInteract
+  - NPS
+  - EnemyHide
+  - Snow
+  - Stone
+  - DestroyPoint
+  - Button
+  - wolf
+  - train
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGraund
+    uniqueID: 1267078575
+    locked: 0
+  - name: Player
+    uniqueID: 1116860971
+    locked: 0
+  - name: ForvordGraund
+    uniqueID: 4035759351
+    locked: 0

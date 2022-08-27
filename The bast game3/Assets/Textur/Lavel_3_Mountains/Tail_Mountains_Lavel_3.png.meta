@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: e33bfa803af022a48aa01263abe226bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2502213888355172071
+    second: Tail_Mountains_Lavel_3_0
+  - first:
+      213: 4227899554948046761
+    second: Tail_Mountains_Lavel_3_1
+  - first:
+      213: 3503280365315040537
+    second: Tail_Mountains_Lavel_3_2
+  - first:
+      213: -2915410734985700518
+    second: Tail_Mountains_Lavel_3_3
+  - first:
+      213: 3743588043421980117
+    second: Tail_Mountains_Lavel_3_4
+  - first:
+      213: 4405941956685180256
+    second: Tail_Mountains_Lavel_3_5
+  - first:
+      213: 2823406796076662036
+    second: Tail_Mountains_Lavel_3_6
+  - first:
+      213: 5097029694587358556
+    second: Tail_Mountains_Lavel_3_7
+  - first:
+      213: 8266767466770037788
+    second: Tail_Mountains_Lavel_3_8
+  - first:
+      213: -5603983782627178465
+    second: Tail_Mountains_Lavel_3_9
+  - first:
+      213: 1911945171345950711
+    second: Tail_Mountains_Lavel_3_10
+  - first:
+      213: -7814374504688743925
+    second: Tail_Mountains_Lavel_3_11
+  - first:
+      213: 2519918311534124715
+    second: Tail_Mountains_Lavel_3_12
+  - first:
+      213: 6756971593281621513
+    second: Tail_Mountains_Lavel_3_13
+  - first:
+      213: -2614436305149941248
+    second: Tail_Mountains_Lavel_3_14
+  - first:
+      213: 8672620162168376579
+    second: Tail_Mountains_Lavel_3_15
+  - first:
+      213: -5180780463608680962
+    second: Tail_Mountains_Lavel_3_16
+  - first:
+      213: -8185763826230688926
+    second: Tail_Mountains_Lavel_3_17
+  - first:
+      213: 7670560841970410659
+    second: Tail_Mountains_Lavel_3_18
+  - first:
+      213: 3917662999309808247
+    second: Tail_Mountains_Lavel_3_19
+  - first:
+      213: 3107624187926570298
+    second: Tail_Mountains_Lavel_3_20
+  - first:
+      213: -5669052518886610243
+    second: Tail_Mountains_Lavel_3_21
+  - first:
+      213: -8487051764769927623
+    second: Tail_Mountains_Lavel_3_22
+  - first:
+      213: -3056525945367865594
+    second: Tail_Mountains_Lavel_3_23
+  - first:
+      213: -5078308325376266486
+    second: Tail_Mountains_Lavel_3_24
+  - first:
+      213: -118538714110535882
+    second: Tail_Mountains_Lavel_3_25
+  - first:
+      213: 119957495380828104
+    second: Tail_Mountains_Lavel_3_26
+  - first:
+      213: -5972059199440799845
+    second: Tail_Mountains_Lavel_3_27
+  - first:
+      213: 9032317445081486785
+    second: Tail_Mountains_Lavel_3_28
+  - first:
+      213: 1953163600083036993
+    second: Tail_Mountains_Lavel_3_29
+  - first:
+      213: 7757463252288718953
+    second: Tail_Mountains_Lavel_3_30
+  - first:
+      213: -6379464044321900394
+    second: Tail_Mountains_Lavel_3_31
+  - first:
+      213: 4895919945879239791
+    second: Tail_Mountains_Lavel_3_32
+  - first:
+      213: 1167730064975553724
+    second: Tail_Mountains_Lavel_3_33
+  - first:
+      213: 3658963377844686638
+    second: Tail_Mountains_Lavel_3_34
+  - first:
+      213: -3346434942769011617
+    second: Tail_Mountains_Lavel_3_35
+  - first:
+      213: 891023053720139777
+    second: Tail_Mountains_Lavel_3_36
+  - first:
+      213: -5045781796551043563
+    second: Tail_Mountains_Lavel_3_37
+  - first:
+      213: 8237986854823494966
+    second: Tail_Mountains_Lavel_3_38
+  - first:
+      213: 5525609805283357806
+    second: Tail_Mountains_Lavel_3_39
+  - first:
+      213: 3291065765314573378
+    second: Tail_Mountains_Lavel_3_40
+  - first:
+      213: 3418546767520784156
+    second: Tail_Mountains_Lavel_3_41
+  - first:
+      213: -7189700911555536163
+    second: Tail_Mountains_Lavel_3_42
+  - first:
+      213: -477008370326033124
+    second: Tail_Mountains_Lavel_3_43
+  - first:
+      213: 4293989575189033436
+    second: Tail_Mountains_Lavel_3_44
+  - first:
+      213: 8189530730653281167
+    second: Tail_Mountains_Lavel_3_45
+  - first:
+      213: 4428849646112378920
+    second: Tail_Mountains_Lavel_3_46
+  - first:
+      213: -8706197312139933777
+    second: Tail_Mountains_Lavel_3_47
+  - first:
+      213: 48876099634731780
+    second: Tail_Mountains_Lavel_3_48
+  - first:
+      213: 3719727457946044218
+    second: Tail_Mountains_Lavel_3_49
+  - first:
+      213: 3723160520046651536
+    second: Tail_Mountains_Lavel_3_50
+  - first:
+      213: -5959087561229835784
+    second: Tail_Mountains_Lavel_3_51
+  - first:
+      213: -4720352754241691325
+    second: Tail_Mountains_Lavel_3_52
+  - first:
+      213: -6515690461472566232
+    second: Tail_Mountains_Lavel_3_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 123.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1178
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee757f2646a9b220800000000000000
+      internalID: 2502213888355172071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1178
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd5beae348caa30800000000000000
+      internalID: 4227899554948046761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1178
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915243b5ee62e9030800000000000000
+      internalID: 3503280365315040537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_3
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1178
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b11de02616a87d0800000000000000
+      internalID: -2915410734985700518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1178
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d51199bd75e3f330800000000000000
+      internalID: 3743588043421980117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06da53daddc052d30800000000000000
+      internalID: 4405941956685180256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db290a581ce2720800000000000000
+      internalID: 2823406796076662036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4f7380894cb640800000000000000
+      internalID: 5097029694587358556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7599363579b270800000000000000
+      internalID: 8266767466770037788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18057dd076aa32b0800000000000000
+      internalID: -5603983782627178465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74910e008988a10800000000000000
+      internalID: 1911945171345950711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a88225ac3cd8390800000000000000
+      internalID: -7814374504688743925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5efd6a5c88f220800000000000000
+      internalID: 2519918311534124715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec4f63dd595cd50800000000000000
+      internalID: 6756971593281621513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a27a74808a7bbd0800000000000000
+      internalID: -2614436305149941248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dcfe586165b5870800000000000000
+      internalID: 8672620162168376579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd22570e9b2a18b0800000000000000
+      internalID: -5180780463608680962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_17
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263074a8b23566e80800000000000000
+      internalID: -8185763826230688926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_18
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1116
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4eaa5027e437a60800000000000000
+      internalID: 7670560841970410659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1054
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727d8fbdb55e5630800000000000000
+      internalID: 3917662999309808247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1054
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3566c8ebbf702b20800000000000000
+      internalID: 3107624187926570298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1054
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaeabe15ca7351b0800000000000000
+      internalID: -5669052518886610243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1054
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4982e26fe73a80800000000000000
+      internalID: -8487051764769927623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_23
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1054
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607559bc8d90595d0800000000000000
+      internalID: -3056525945367865594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1054
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fe90eeb793689b0800000000000000
+      internalID: -5078308325376266486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 992
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6375f45eaadda5ef0800000000000000
+      internalID: -118538714110535882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 992
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfd15cd4bc2aa100800000000000000
+      internalID: 119957495380828104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_27
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 992
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973ab7accbfe1da0800000000000000
+      internalID: -5972059199440799845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c555ac6cdc395d70800000000000000
+      internalID: 9032317445081486785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2c2b22f70b1b10800000000000000
+      internalID: 1953163600083036993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c0d62abb08ab60800000000000000
+      internalID: 7757463252288718953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698f0d460479777a0800000000000000
+      internalID: -6379464044321900394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb1e6404dc1f340800000000000000
+      internalID: 4895919945879239791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb46964ae4c943010800000000000000
+      internalID: 1167730064975553724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f889e5ecf37c230800000000000000
+      internalID: 3658963377844686638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546c4456231f81d0800000000000000
+      internalID: -3346434942769011617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_36
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083cab1fbc8d5c00800000000000000
+      internalID: 891023053720139777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_37
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51651729038c9f9b0800000000000000
+      internalID: -5045781796551043563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_38
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6358712d565335270800000000000000
+      internalID: 8237986854823494966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_39
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64745b87d8eeac40800000000000000
+      internalID: 5525609805283357806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_40
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244360270e63cad20800000000000000
+      internalID: 3291065765314573378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_41
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 930
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fd22e3c2e117f20800000000000000
+      internalID: 3418546767520784156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_42
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 868
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda1e651d1d093c90800000000000000
+      internalID: -7189700911555536163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_43
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 868
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d24db1a635169f0800000000000000
+      internalID: -477008370326033124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_44
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 868
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd17f52a4c0579b30800000000000000
+      internalID: 4293989575189033436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 868
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bebbd3fce07a170800000000000000
+      internalID: 8189530730653281167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_46
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 868
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209420c94f667d30800000000000000
+      internalID: 4428849646112378920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 868
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa740790caf5d2780800000000000000
+      internalID: -8706197312139933777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1cbcbd84ada000800000000000000
+      internalID: 48876099634731780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 806
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3704204a602f9330800000000000000
+      internalID: 3719727457946044218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 806
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098a32f44c25ba330800000000000000
+      internalID: 3723160520046651536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 806
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f162778f611d4da0800000000000000
+      internalID: -5959087561229835784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 806
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34123e4fd20fd7eb0800000000000000
+      internalID: -4720352754241691325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Mountains_Lavel_3_53
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 806
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d6810c0e9395a0800000000000000
+      internalID: -6515690461472566232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

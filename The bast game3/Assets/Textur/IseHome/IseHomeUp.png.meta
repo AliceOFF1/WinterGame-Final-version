@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: efa586411c49a024f8d494734c38823c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4499105297381458516
+    second: IseHomeUp_0
+  - first:
+      213: -8579259500274129633
+    second: IseHomeUp_1
+  - first:
+      213: 4348630498130214379
+    second: IseHomeUp_2
+  - first:
+      213: -5259619358543315678
+    second: IseHomeUp_3
+  - first:
+      213: 6233816220769043381
+    second: IseHomeUp_4
+  - first:
+      213: -8390483472472897612
+    second: IseHomeUp_5
+  - first:
+      213: -5063032704678196560
+    second: IseHomeUp_6
+  - first:
+      213: 4829402121273793179
+    second: IseHomeUp_7
+  - first:
+      213: 3986118363018213762
+    second: IseHomeUp_8
+  - first:
+      213: 8301510891097641329
+    second: IseHomeUp_9
+  - first:
+      213: 3102445935892939321
+    second: IseHomeUp_10
+  - first:
+      213: -6195374695618029443
+    second: IseHomeUp_11
+  - first:
+      213: -5480981886478881413
+    second: IseHomeUp_12
+  - first:
+      213: -748728071560294900
+    second: IseHomeUp_13
+  - first:
+      213: -6469466670118194065
+    second: IseHomeUp_14
+  - first:
+      213: -3931485710371708900
+    second: IseHomeUp_15
+  - first:
+      213: 1808277837028942358
+    second: IseHomeUp_16
+  - first:
+      213: 5587682620687832672
+    second: IseHomeUp_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 106
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IseHomeUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadff7eb197ff81c0800000000000000
+      internalID: -4499105297381458516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 160
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e34a70f850f880800000000000000
+      internalID: -8579259500274129633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 160
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3b74e560795c30800000000000000
+      internalID: 4348630498130214379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df1406f041207b0800000000000000
+      internalID: -5259619358543315678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c10a13d6f28650800000000000000
+      internalID: 6233816220769043381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 160
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b787798cb30f8b80800000000000000
+      internalID: -8390483472472897612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8877849e7cb9b0800000000000000
+      internalID: -5063032704678196560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 107
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ada0c54ab750340800000000000000
+      internalID: 4829402121273793179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 107
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bc542889815730800000000000000
+      internalID: 3986118363018213762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17159e21c24e43370800000000000000
+      internalID: 8301510891097641329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c0c7242a1e0b20800000000000000
+      internalID: 3102445935892939321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785e31f98b950aa0800000000000000
+      internalID: -6195374695618029443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d63148304afe3b0800000000000000
+      internalID: -5480981886478881413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 54
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e094d29cbfb95f0800000000000000
+      internalID: -748728071560294900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6430691756d736a0800000000000000
+      internalID: -6469466670118194065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1025c9839e8079c0800000000000000
+      internalID: -3931485710371708900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126253bc1b481910800000000000000
+      internalID: 1808277837028942358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IseHomeUp_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d8bb1dbf6b8d40800000000000000
+      internalID: 5587682620687832672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
