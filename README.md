@@ -28,29 +28,27 @@ ___
 
 + Cтандартное управление:
   + Перемещение(кнопки WASD, пробел)
- ![moving](ReadmeFiles/Gif/moving.gif) 
-  + Атака (ЛКМ)
- ![attack](ReadmeFiles/Gif/attack.gif)  
 
 + Индикаторы состояния игрока: 
   + Здоровье:  
   Для пополнения индикатора необходимо подобрать аптечку;
-  ![foodBar](ReadmeFiles/Gif/HealthBar.gif) 
+  ![foodBar](ReadmeFiles/Picture/healthBar.png) 
 
   + Температура:  
   Чтобы согреться игроку необходимо развести костер, для этого потребуется срубить дерево. Если индикатор опускается до нуля, он начинает влиять на основное здоровье игрока;
-  ![attack](ReadmeFiles/Gif/FreazenBar.gif)
+  ![attack](ReadmeFiles/Picture/attack.png)
 
   + Голод:  
  Для пополнения необходимо подобрть пищу, можно найти на уровне, либо уничтожить врага, из которого заспавнится необходимый предмет.Если индикатор опускается до нуля, он начинает влиять на основное здоровье игрока;
- ![attack](ReadmeFiles/Gif/foodBar.gif)
+ ![attack](ReadmeFiles/Picture/foodBar.png)
+ ![attack](ReadmeFiles/Picture/foodBar_2.png)
 
 + В игре присутствуют различные двери и платформы, для открытия которых необходимо взаимодействовать с кнопками и рычагами.
-![button](ReadmeFiles/Gif/Button.gif)
-![handle](ReadmeFiles/Gif/Handle.gif)
+![button](ReadmeFiles/Picture/button.png)
+![handle](ReadmeFiles/Picture/handle.png)
 
 + Система диалога.
-![dialog](ReadmeFiles/Gif/Dialog.gif)
+![dialog](ReadmeFiles/Picture/dialog.png)
 ___
 
 
