@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IDoorHinge 
+public interface IDoorHinge
 {
-	void OpenDoorHinge(); 
-	void CloseDoorHinge(); 
-	
+    void OpenDoorHinge();
+    void CloseDoorHinge();
+
 }

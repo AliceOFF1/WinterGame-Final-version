@@ -6,5 +6,5 @@ using UnityEngine;
 
 public class VectorValue : ScriptableObject
 {
-	public Vector3 initialValue;
+    public Vector3 initialValue;
 }

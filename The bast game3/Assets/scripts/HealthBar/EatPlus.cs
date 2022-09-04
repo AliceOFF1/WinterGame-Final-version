@@ -6,21 +6,21 @@ public class EatPlus : MonoBehaviour
 {
 
 
-	void OnTriggerEnter2D(Collider2D other)
-	{
-		PlayerController controller = other.GetComponent<PlayerController>(); 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        PlayerController controller = other.GetComponent<PlayerController>();
 
-		if (controller != null) 
-		{ 
-			if (controller.eat < controller.maxEat)
-			{ 
+        if (controller != null)
+        {
+            if (controller.eat < controller.maxEat)
+            {
 
-				controller.ChangeEat(+10); 
-			    Destroy(gameObject); 
-			} 
-			
-			
-		}
-	}
+                controller.ChangeEat(+10);
+                Destroy(gameObject);
+            }
+
+
+        }
+    }
 
 }

@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IDoor 
+public interface IDoor
 {
-	void OpenDoor(); 
-	void CloseDoor(); 
-	void ToggleDoor();
+    void OpenDoor();
+    void CloseDoor();
+    void ToggleDoor();
 }

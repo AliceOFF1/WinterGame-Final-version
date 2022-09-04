@@ -4,26 +4,26 @@ using UnityEngine;
 
 public class TrainDoor : MonoBehaviour
 {
-	[SerializeField] private Key.KeyType keyType;  
+    [SerializeField] private Key.KeyType keyType;
 
-	private Animator animator; 
-   	private bool isOpen = false;  
+    private Animator animator;
+    private bool isOpen = false;
 
-   	private void Awake() 
-   {
-   	animator = GetComponent<Animator>();
-   } 
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
 
-	public Key.KeyType GetKeyType() 
-	{
-		return keyType;
-	} 
+    public Key.KeyType GetKeyType()
+    {
+        return keyType;
+    }
 
-	public void OpenDoor() 
-	{
-		isOpen = true;
-   		animator.SetBool("trolley", true); 
-	}
+    public void OpenDoor()
+    {
+        isOpen = true;
+        animator.SetBool("trolley", true);
+    }
 
 }
 

@@ -5,29 +5,29 @@ using UnityEngine;
 public class TriggerForSetActive : MonoBehaviour
 {
 
-	public GameObject Trigger;
+    public GameObject Trigger;
     // Start is called before the first frame update
     void Start()
     {
         Trigger.SetActive(true);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision) 
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
 
-    	if (collision.CompareTag("Player")) 
-    	{  
-    		{
-    			ExplodeTheObject();
-    		}
 
-    	}
-    } 
+        if (collision.CompareTag("Player"))
+        {
+            {
+                ExplodeTheObject();
+            }
 
-    void ExplodeTheObject() 
+        }
+    }
+
+    void ExplodeTheObject()
     {
-    	Trigger.SetActive(false);
+        Trigger.SetActive(false);
     }
 
 }

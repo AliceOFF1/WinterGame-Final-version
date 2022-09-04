@@ -4,53 +4,53 @@ using UnityEngine;
 
 public class WoodBladeAnim : MonoBehaviour
 {
-	[SerializeField] private GameObject doorGameObject;  
-	private IDoor door;
-	bool Activate = false;
+    [SerializeField] private GameObject doorGameObject;
+    private IDoor door;
+    bool Activate = false;
 
 
 
-	private void Awake() 
-	{
-		door = doorGameObject.GetComponent<IDoor>();  
-	}   
-
-	
-
-	private void OnTriggerEnter2D(Collider2D collider) 
-    
+    private void Awake()
     {
-    	if(collider.GetComponent<WoodBladeFalse>() != null)  
-			//Player entered collider! 
-		{
-			 Activate = true;
-		}
-			
-	} 
+        door = doorGameObject.GetComponent<IDoor>();
+    }
 
-	private void OnTriggerExit2D(Collider2D collider) 
-    
+
+
+    private void OnTriggerEnter2D(Collider2D collider)
+
     {
-    	if(collider.GetComponent<WoodBladeFalse>() != null)  
-			//Player entered collider! 
-		{
-			 Activate = false;
-		}
-			
-	}   
+        if (collider.GetComponent<WoodBladeFalse>() != null)
+        //Player entered collider! 
+        {
+            Activate = true;
+        }
 
-	void Update()
+    }
+
+    private void OnTriggerExit2D(Collider2D collider)
+
     {
-       if (Activate == false)
-       {
-       	door.OpenDoor();
-       } 
+        if (collider.GetComponent<WoodBladeFalse>() != null)
+        //Player entered collider! 
+        {
+            Activate = false;
+        }
 
-         if (Activate == true)
-       {
-       	door.CloseDoor();
-       }
+    }
 
-    }        
+    void Update()
+    {
+        if (Activate == false)
+        {
+            door.OpenDoor();
+        }
+
+        if (Activate == true)
+        {
+            door.CloseDoor();
+        }
+
+    }
 
 }

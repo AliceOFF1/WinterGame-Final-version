@@ -3,34 +3,34 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class FinalTitrActivateTrigger : MonoBehaviour
-{ 
-	public GameObject titrtrigger;
-	bool titrActivatetrigger;
-   
+{
+    public GameObject titrtrigger;
+    bool titrActivatetrigger;
+
     void Start()
     {
-        titrtrigger.SetActive(false); 
+        titrtrigger.SetActive(false);
         titrActivatetrigger = false;
     }
 
     // Update is called once per frame
-      
 
-       private void OnTriggerEnter2D(Collider2D collision) 
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-    	if(collision.gameObject.name.Equals("Player"))  
-    	{
-    		titrActivatetrigger = true;
-    	} 
+        if (collision.gameObject.name.Equals("Player"))
+        {
+            titrActivatetrigger = true;
+        }
     }
 
-   void Update()
+    void Update()
     {
         if (titrActivatetrigger == true && Input.GetKey(KeyCode.E))
         {
-        	titrtrigger.SetActive(true);
+            titrtrigger.SetActive(true);
         }
-    }  
+    }
 }
 
 

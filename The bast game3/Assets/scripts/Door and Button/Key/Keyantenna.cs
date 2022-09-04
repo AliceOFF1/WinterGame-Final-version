@@ -4,19 +4,19 @@ using UnityEngine;
 
 public class Keyantenna : MonoBehaviour
 {
-	[SerializeField] private KeyantennaType keyantennaType;  
+    [SerializeField] private KeyantennaType keyantennaType;
 
-	public enum KeyantennaType 
-	{
-		Red, 
-		Green, 
-		Blue
-	} 
+    public enum KeyantennaType
+    {
+        Red,
+        Green,
+        Blue
+    }
 
-	public KeyantennaType GetKeyantennaType() 
-	{
-		return keyantennaType;
-	} 
+    public KeyantennaType GetKeyantennaType()
+    {
+        return keyantennaType;
+    }
 
-   
+
 }

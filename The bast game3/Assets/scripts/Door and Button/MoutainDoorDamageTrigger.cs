@@ -4,52 +4,52 @@ using UnityEngine;
 public class MoutainDoorDamageTrigger : MonoBehaviour
 
 {
-	[SerializeField] private GameObject doorGameObject;  
-	private IDoor door;
-	private float timer; 
-	public GameObject MountainDoor;  
-	public GameObject E;
-	public GameObject Message; 
-	public GameObject MountainDoorTrigger;
+    [SerializeField] private GameObject doorGameObject;
+    private IDoor door;
+    private float timer;
+    public GameObject MountainDoor;
+    public GameObject E;
+    public GameObject Message;
+    public GameObject MountainDoorTrigger;
 
-	[SerializeField] 
-	int health = 200; 
+    [SerializeField]
+    int health = 200;
 
     AudioSource audioSource;
-    
-    public AudioClip collectedClipOn; 
+
+    public AudioClip collectedClipOn;
 
     void Start()
     {
-    	MountainDoor.SetActive(true);
-    	E.SetActive(true);
+        MountainDoor.SetActive(true);
+        E.SetActive(true);
         Message.SetActive(true);
         MountainDoorTrigger.SetActive(true);
     }
 
 
-    public void PlaySound(AudioClip clip) 
-   {
-      audioSource.PlayOneShot(clip);
-   }  
-
-    private void OnTriggerEnter2D(Collider2D collision) 
+    public void PlaySound(AudioClip clip)
     {
-        
+        audioSource.PlayOneShot(clip);
+    }
 
-    	if (collision.CompareTag("DestroyPoint")) 
-    	{ 
-    		health--;  
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
 
-    		if (health < 0) 
-    		{
-    			door.OpenDoor();
-         		
-    		}
 
-    		
-    	}
-    } 
+        if (collision.CompareTag("DestroyPoint"))
+        {
+            health--;
+
+            if (health < 0)
+            {
+                door.OpenDoor();
+
+            }
+
+
+        }
+    }
 
 
 

@@ -3,55 +3,55 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WollDestroyd : MonoBehaviour
-{  
+{
     public int maxHealth = 100;
     int currentHealth;
-    private bool See; 
+    private bool See;
     public GameObject WollForDestroy;
 
 
-    [SerializeField] 
+    [SerializeField]
 
     private UnityEngine.Object explosion;
 
     void Start()
-    { 
-        explosion = Resources.Load("StoneDestroy"); 
-        currentHealth = maxHealth; 
+    {
+        explosion = Resources.Load("StoneDestroy");
+        currentHealth = maxHealth;
         See = false;
     }
 
-       
-   
 
-  
-    private void OnTriggerEnter2D(Collider2D collision) 
+
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
 
-        if (collision.CompareTag("DestroyPoint")) 
-        { 
+
+        if (collision.CompareTag("DestroyPoint"))
+        {
             See = true;
-            GameObject explosionRef = (GameObject)Instantiate(explosion); 
-            explosionRef.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z);  
-        }  
+            GameObject explosionRef = (GameObject)Instantiate(explosion);
+            explosionRef.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z);
+        }
     }
 
-    
+
 
     void Update()
     {
-       if (See == true && Input.GetKeyDown(KeyCode.Mouse0))
-      {
-        currentHealth -=15; 
-      } 
+        if (See == true && Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            currentHealth -= 15;
+        }
 
-      if (currentHealth <= 0) 
-            {  
-                Destroy(gameObject); 
-                Destroy(WollForDestroy); 
+        if (currentHealth <= 0)
+        {
+            Destroy(gameObject);
+            Destroy(WollForDestroy);
 
-            }
+        }
     }
 
-} 
+}

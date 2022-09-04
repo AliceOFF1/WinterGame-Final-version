@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class Wood : MonoBehaviour
 {
-	[SerializeField] private WoodType woodType; 
+    [SerializeField] private WoodType woodType;
 
-	public enum WoodType 
-	{
-		Red, 
-		Green, 
-		Blue
-	} 
+    public enum WoodType
+    {
+        Red,
+        Green,
+        Blue
+    }
 
-	public WoodType GetWoodType() 
-	{
-		return woodType;
-	} 
+    public WoodType GetWoodType()
+    {
+        return woodType;
+    }
 
 }

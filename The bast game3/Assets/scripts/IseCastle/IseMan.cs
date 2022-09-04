@@ -3,65 +3,65 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class IseMan : MonoBehaviour
-{ 
+{
 
-	[SerializeField] 
-	int health = 2; 
+    [SerializeField]
+    int health = 2;
 
-	[SerializeField] 
-	Object destructable; 
+    [SerializeField]
+    Object destructable;
 
     AudioSource audioSource;
-    
+
     public AudioClip collectedClipOn;
 
     // Start is called before the first frame update
     void Start()
     {
-        audioSource =GetComponent<AudioSource>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
-    
 
-    public void PlaySound(AudioClip clip) 
-   {
-      audioSource.PlayOneShot(clip);
-   }  
 
-    private void OnTriggerEnter2D(Collider2D collision) 
+    public void PlaySound(AudioClip clip)
     {
-        
+        audioSource.PlayOneShot(clip);
+    }
 
-    	if (collision.CompareTag("DestroyPoint")) 
-    	{  
-    		health--;  
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
 
-    		if (health < 0) 
-    		{
-    			ExplodeTheObject();
-    		}
 
-    	}
-        if (collision.CompareTag("woodobs")) 
-        {  
-            health--;  
+        if (collision.CompareTag("DestroyPoint"))
+        {
+            health--;
 
-            if (health < 0) 
+            if (health < 0)
+            {
+                ExplodeTheObject();
+            }
+
+        }
+        if (collision.CompareTag("woodobs"))
+        {
+            health--;
+
+            if (health < 0)
             {
                 ExplodeTheObject();
             }
 
         }
 
-    }  
+    }
 
 
-    void ExplodeTheObject() 
+    void ExplodeTheObject()
     {
-    	GameObject destruct = (GameObject) Instantiate(destructable); 
-    	destruct.transform.position = transform.position; 
-    	Destroy(gameObject, 0.01f);
+        GameObject destruct = (GameObject)Instantiate(destructable);
+        destruct.transform.position = transform.position;
+        Destroy(gameObject, 0.01f);
     }
 }
 

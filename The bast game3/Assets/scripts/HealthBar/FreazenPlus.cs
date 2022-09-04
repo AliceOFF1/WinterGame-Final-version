@@ -4,20 +4,20 @@ using UnityEngine;
 
 public class FreazenPlus : MonoBehaviour
 {
-	
 
-	void OnTriggerStay2D(Collider2D other)
-	{
-		PlayerController controller = other.GetComponent<PlayerController>(); 
 
-		if (controller != null) 
-		 
-			{ 
+    void OnTriggerStay2D(Collider2D other)
+    {
+        PlayerController controller = other.GetComponent<PlayerController>();
 
-				controller.ChangeFreazen(+1); 
-			} 
-		
-	}
+        if (controller != null)
+
+        {
+
+            controller.ChangeFreazen(+1);
+        }
+
+    }
 
 }
 

@@ -3,24 +3,24 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class TrainController : MonoBehaviour
-{  
-	AudioSource audioSource;
-    
+{
+    AudioSource audioSource;
+
     public AudioClip collectedClipOn;
     // Start is called before the first frame update
 
 
     // Update is called once per frame 
 
-	 void Start()
+    void Start()
     {
-        audioSource =GetComponent<AudioSource>();
+        audioSource = GetComponent<AudioSource>();
     }
 
-       public void PlaySound(AudioClip clip) 
-   {
-      audioSource.PlayOneShot(clip);
-   }   
+    public void PlaySound(AudioClip clip)
+    {
+        audioSource.PlayOneShot(clip);
+    }
 
 
 }

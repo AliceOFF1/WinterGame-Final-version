@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MusicPlatformAndBox : MonoBehaviour
-{ 
+{
 
 
-    
+
 }
 
 

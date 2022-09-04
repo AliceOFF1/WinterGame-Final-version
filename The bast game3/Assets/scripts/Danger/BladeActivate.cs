@@ -5,8 +5,8 @@ using UnityEngine;
 public class BladeActivate : MonoBehaviour
 {
 
-	public GameObject Particle;
-	public float timer; 
+    public GameObject Particle;
+    public float timer;
 
     // Start is called before the first frame update
     void Start()
@@ -14,38 +14,38 @@ public class BladeActivate : MonoBehaviour
         Particle.SetActive(false);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision) 
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
 
-    	if (collision.CompareTag("Player")) 
-    	{  
-    		{
-    			ExplodeTheObject();
-    		}
 
-    	}
-    } 
+        if (collision.CompareTag("Player"))
+        {
+            {
+                ExplodeTheObject();
+            }
 
-    void ExplodeTheObject() 
-    { 
-    	timer = 1f;
+        }
     }
 
-    private void Update() 
-	{
-		if (timer >0) 
-		{
-			Particle.SetActive(true); 
-			timer -= Time.deltaTime;
+    void ExplodeTheObject()
+    {
+        timer = 1f;
+    }
 
-			if(timer<=0f) 
-			{
-				Particle.SetActive(false);
+    private void Update()
+    {
+        if (timer > 0)
+        {
+            Particle.SetActive(true);
+            timer -= Time.deltaTime;
 
-			}
-		}
-	}
+            if (timer <= 0f)
+            {
+                Particle.SetActive(false);
 
-} 
+            }
+        }
+    }
+
+}
 

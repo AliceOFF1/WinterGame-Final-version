@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class NpcNotDestroy : MonoBehaviour
 {
-   public DialogueTrigger trigger;  
+    public DialogueTrigger trigger;
 
-   private void OnCollisionEnter2D(Collision2D collision) 
-   {
-   	if (collision.gameObject.CompareTag("Player") == true) 
-   	{
-   		trigger.StartDialogue(); 
-   	}
-   
-   }  
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player") == true)
+        {
+            trigger.StartDialogue();
+        }
 
- 
+    }
+
+
 
 }

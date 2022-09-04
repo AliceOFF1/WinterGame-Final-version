@@ -4,25 +4,25 @@ using UnityEngine;
 
 public class TrambDoor : MonoBehaviour
 {
-	[SerializeField] private Tramb.TrambType trambType;  
+    [SerializeField] private Tramb.TrambType trambType;
 
-	private Animator animator; 
-   	private bool isOpen = false;  
+    private Animator animator;
+    private bool isOpen = false;
 
-   	private void Awake() 
-   {
-   	animator = GetComponent<Animator>();
-   } 
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
 
-	public Tramb.TrambType GetTrambType() 
-	{
-		return trambType;
-	} 
+    public Tramb.TrambType GetTrambType()
+    {
+        return trambType;
+    }
 
-	public void OpenDoor() 
-	{
-		isOpen = true;
-   		animator.SetBool("OpenShaman", true); 
-	}
+    public void OpenDoor()
+    {
+        isOpen = true;
+        animator.SetBool("OpenShaman", true);
+    }
 
 }

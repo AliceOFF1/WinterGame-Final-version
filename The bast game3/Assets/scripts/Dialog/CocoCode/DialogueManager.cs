@@ -4,62 +4,62 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
-{ 
-	public Image actorImage; 
-	public Text actorName; 
-	public Text messageText; 
-	public RectTransform backgroundBox;  
+{
+    public Image actorImage;
+    public Text actorName;
+    public Text messageText;
+    public RectTransform backgroundBox;
 
-	Message[] currentMessages; 
-	Actor[] currentActors; 
-	int activeMessage = 0; 
-	public static bool isActive = false; 
+    Message[] currentMessages;
+    Actor[] currentActors;
+    int activeMessage = 0;
+    public static bool isActive = false;
 
-	public void OpenDialogue(Message[] messages, Actor[] actors) 
-	{
-		currentMessages = messages; 
-		currentActors = actors; 
-		activeMessage = 0; 
-		isActive = true; 
+    public void OpenDialogue(Message[] messages, Actor[] actors)
+    {
+        currentMessages = messages;
+        currentActors = actors;
+        activeMessage = 0;
+        isActive = true;
 
-		DisplayMessage();  
-		backgroundBox.LeanScale(Vector3.one, 0.5f);
-	} 
+        DisplayMessage();
+        backgroundBox.LeanScale(Vector3.one, 0.5f);
+    }
 
-	void DisplayMessage() 
-	{
-		Message messageToDisplay = currentMessages[activeMessage]; 
-		messageText.text = messageToDisplay.message; 
+    void DisplayMessage()
+    {
+        Message messageToDisplay = currentMessages[activeMessage];
+        messageText.text = messageToDisplay.message;
 
-		Actor actorToDisplay = currentActors[messageToDisplay.actorId]; 
-		actorName.text = actorToDisplay.name; 
-		actorImage.sprite = actorToDisplay.sprite; 
+        Actor actorToDisplay = currentActors[messageToDisplay.actorId];
+        actorName.text = actorToDisplay.name;
+        actorImage.sprite = actorToDisplay.sprite;
 
-		AnimateTextColor();
-	} 
+        AnimateTextColor();
+    }
 
-	public void NextMessage() 
-	{
-		activeMessage++; 
-		if (activeMessage < currentMessages.Length) 
-		{
-			DisplayMessage();
-		} 
-		else 
-		{
-			backgroundBox.LeanScale(Vector3.zero, 0.5f).setEaseInOutExpo(); 
-			isActive = false; 
-		} 
-	}
+    public void NextMessage()
+    {
+        activeMessage++;
+        if (activeMessage < currentMessages.Length)
+        {
+            DisplayMessage();
+        }
+        else
+        {
+            backgroundBox.LeanScale(Vector3.zero, 0.5f).setEaseInOutExpo();
+            isActive = false;
+        }
+    }
 
-	void AnimateTextColor() 
-	{
-		LeanTween.textAlpha(messageText.rectTransform, 0, 0);
-		LeanTween.textAlpha(messageText.rectTransform, 1, 0.5f);
+    void AnimateTextColor()
+    {
+        LeanTween.textAlpha(messageText.rectTransform, 0, 0);
+        LeanTween.textAlpha(messageText.rectTransform, 1, 0.5f);
 
-	}
+    }
 
-	
+
     // Start is called before the first frame update
     void Start()
     {
@@ -69,10 +69,10 @@ public class DialogueManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.X) && isActive == true) 
+        if (Input.GetKeyDown(KeyCode.X) && isActive == true)
         {
-        	NextMessage(); 
+            NextMessage();
         }
- 
+
     }
 }

@@ -4,32 +4,32 @@ using UnityEngine;
 
 public class FireDoor : MonoBehaviour
 {
-	[SerializeField] private Fire.FireType fireType;  
+    [SerializeField] private Fire.FireType fireType;
 
-	private Animator animator; 
-   	private bool isOpen = false; 
-   	public GameObject FireFreazenPlus; 
+    private Animator animator;
+    private bool isOpen = false;
+    public GameObject FireFreazenPlus;
 
-   	private void Awake() 
-   {
-   	animator = GetComponent<Animator>();
-   } 
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
 
-  	void Start()
+    void Start()
     {
         FireFreazenPlus.SetActive(false);
     }
 
-	public Fire.FireType GetFireType() 
-	{
-		return fireType;
-	} 
+    public Fire.FireType GetFireType()
+    {
+        return fireType;
+    }
 
-	public void OpenDoor() 
-	{
-		isOpen = true;
-		animator.SetBool("FireBonfire", true);
-		FireFreazenPlus.SetActive(true); 
-	}
+    public void OpenDoor()
+    {
+        isOpen = true;
+        animator.SetBool("FireBonfire", true);
+        FireFreazenPlus.SetActive(true);
+    }
 
 }

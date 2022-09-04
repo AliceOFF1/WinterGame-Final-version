@@ -2,46 +2,46 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ShamanSetActive: MonoBehaviour
-{ 
-  private bool See = false;  
-  public GameObject Effect;  
-  
+public class ShamanSetActive : MonoBehaviour
+{
+    private bool See = false;
+    public GameObject Effect;
 
-    
+
+
     void Start()
     {
-        Effect.SetActive(false); 
-    } 
- 
+        Effect.SetActive(false);
+    }
 
-    
 
-    private void OnTriggerEnter2D(Collider2D collision) 
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-    	if(collision.gameObject.name.Equals("Player"))  
-         
-         {
+        if (collision.gameObject.name.Equals("Player"))
+
+        {
             See = true;
-         } 
-    }    
+        }
+    }
 
-        private void OnTriggerExit2D(Collider2D collision) 
+    private void OnTriggerExit2D(Collider2D collision)
     {
-      if(collision.gameObject.name.Equals("Player"))  
-         
-         {
-            See = false;
-         } 
-    }   
+        if (collision.gameObject.name.Equals("Player"))
 
-    
+        {
+            See = false;
+        }
+    }
+
+
     void Update()
     {
-       if (See == true && Input.GetKey(KeyCode.E)) 
-      {
-      	Effect.SetActive(true);
-      } 
+        if (See == true && Input.GetKey(KeyCode.E))
+        {
+            Effect.SetActive(true);
+        }
 
-	} 
-} 
+    }
+}

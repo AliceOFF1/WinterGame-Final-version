@@ -3,23 +3,23 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class TrapSound : MonoBehaviour
-{ 
-	public AudioClip collectedClip;
+{
+    public AudioClip collectedClip;
 
 
-	void OnTriggerEnter2D(Collider2D other)
-	{
-		PlayerController controller = other.GetComponent<PlayerController>(); 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        PlayerController controller = other.GetComponent<PlayerController>();
 
-		if (controller != null) 
-		 
-			{ 
-				
-				controller.PlaySound(collectedClip); 
-										
+        if (controller != null)
 
-			} 
-		
-	}
+        {
+
+            controller.PlaySound(collectedClip);
+
+
+        }
+
+    }
 
 }

@@ -4,46 +4,46 @@ using UnityEngine;
 
 public class ChekPoint : MonoBehaviour
 {
-	[SerializeField] private GameObject doorGameObject;  
-	private IDoor door;
-	bool Activate = false;
+    [SerializeField] private GameObject doorGameObject;
+    private IDoor door;
+    bool Activate = false;
 
 
 
-	private void Awake() 
-	{
-		door = doorGameObject.GetComponent<IDoor>();  
-	}   
-
-	
-
-	private void OnTriggerEnter2D(Collider2D collider) 
-    
+    private void Awake()
     {
-    	if(collider.GetComponent<PlayerController>() != null)  
-			//Player entered collider! 
-		{
-			 Activate = true;
-		}
-			
-	} 
-
-	
+        door = doorGameObject.GetComponent<IDoor>();
+    }
 
 
-	
-	void Update()
+
+    private void OnTriggerEnter2D(Collider2D collider)
+
     {
-       if (Activate == true)
-       {
-       	door.OpenDoor(); 
-       } 
+        if (collider.GetComponent<PlayerController>() != null)
+        //Player entered collider! 
+        {
+            Activate = true;
+        }
 
-         if (Activate == false)
-       {
-       	door.CloseDoor();
-       }
+    }
 
-    } 
+
+
+
+
+    void Update()
+    {
+        if (Activate == true)
+        {
+            door.OpenDoor();
+        }
+
+        if (Activate == false)
+        {
+            door.CloseDoor();
+        }
+
+    }
 
 }

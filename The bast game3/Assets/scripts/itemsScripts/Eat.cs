@@ -2,27 +2,27 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Eat : MonoBehaviour 
-{ 
-	public AudioClip collectedClip;
-	
-	void OnTriggerEnter2D(Collider2D other)
-	{
-		PlayerController controller = other.GetComponent<PlayerController>(); 
+public class Eat : MonoBehaviour
+{
+    public AudioClip collectedClip;
 
-		if (controller != null) 
-		{ 
-			if (controller.eat < controller.maxEat)
-			{ 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        PlayerController controller = other.GetComponent<PlayerController>();
 
-				controller.ChangeEat(+10); 
-			    Destroy(gameObject);  
+        if (controller != null)
+        {
+            if (controller.eat < controller.maxEat)
+            {
 
-			    controller.PlaySound(collectedClip); 
-			} 
-			
-			
-		}
-	}
+                controller.ChangeEat(+10);
+                Destroy(gameObject);
+
+                controller.PlaySound(collectedClip);
+            }
+
+
+        }
+    }
 
 }

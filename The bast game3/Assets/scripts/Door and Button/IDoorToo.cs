@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IDoorToo 
+public interface IDoorToo
 {
-	void OpenDoorToo(); 
-	void CloseDoorToo(); 
-	void ToggleDoorToo();
+    void OpenDoorToo();
+    void CloseDoorToo();
+    void ToggleDoorToo();
 }

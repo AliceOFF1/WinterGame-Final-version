@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class Fire : MonoBehaviour
 {
-	[SerializeField] private FireType fireType; 
+    [SerializeField] private FireType fireType;
 
-	public enum FireType 
-	{
-		Red, 
-		Green, 
-		Blue
-	} 
+    public enum FireType
+    {
+        Red,
+        Green,
+        Blue
+    }
 
-	public FireType GetFireType() 
-	{
-		return fireType;
-	} 
+    public FireType GetFireType()
+    {
+        return fireType;
+    }
 
 }

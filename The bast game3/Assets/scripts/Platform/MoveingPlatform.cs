@@ -4,32 +4,32 @@ using UnityEngine;
 
 public class MoveingPlatform : MonoBehaviour
 {
-   float dirX; 
-   float speed = 0.5f; 
+    float dirX;
+    float speed = 0.5f;
 
-   bool moveingRight = true;
+    bool moveingRight = true;
 
     // Update is called once per frame
     void Update()
     {
-        if(transform.position.x> 66.3f)
+        if (transform.position.x > 66.3f)
         {
-        	moveingRight = false;
-        } 
+            moveingRight = false;
+        }
 
-        else if(transform.position.x < 57.7f) 
+        else if (transform.position.x < 57.7f)
         {
-        	moveingRight = true;
-        } 
+            moveingRight = true;
+        }
 
-        if (moveingRight) 
+        if (moveingRight)
         {
-        	transform.position = new Vector2(transform.position.x + speed * Time.deltaTime, transform.position.y);
-        } 
+            transform.position = new Vector2(transform.position.x + speed * Time.deltaTime, transform.position.y);
+        }
 
-        else 
+        else
         {
-        	transform.position = new Vector2(transform.position.x - speed * Time.deltaTime, transform.position.y);
+            transform.position = new Vector2(transform.position.x - speed * Time.deltaTime, transform.position.y);
         }
     }
 }

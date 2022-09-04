@@ -1,41 +1,41 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.IO; 
-using System.Runtime.Serialization.Formatters.Binary; 
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 
 public class SaveSystem
 {
-   public static void SavePlayerController(PlayerController playerController) 
-   {
-   	BinaryFormatter formatter = new BinaryFormatter(); 
-   	string path = Application.persistentDataPath +"/playerController.player"; 
-   	FileStream stream = new FileStream(path, FileMode.Create); 
+    public static void SavePlayerController(PlayerController playerController)
+    {
+        BinaryFormatter formatter = new BinaryFormatter();
+        string path = Application.persistentDataPath + "/playerController.player";
+        FileStream stream = new FileStream(path, FileMode.Create);
 
-   	PlayerData data = new PlayerData(playerController); 
+        PlayerData data = new PlayerData(playerController);
 
-   	formatter.Serialize(stream, data); 
-   	stream.Close();
-   } 
+        formatter.Serialize(stream, data);
+        stream.Close();
+    }
 
-   public static PlayerData LoadPlayer() 
-   {
-   	string path = Application.persistentDataPath + "/playerController.player"; 
-   	if(File.Exists(path)) 
-   	{
-   		BinaryFormatter formatter = new BinaryFormatter(); 
-   		FileStream stream = new FileStream(path, FileMode.Open); 
+    public static PlayerData LoadPlayer()
+    {
+        string path = Application.persistentDataPath + "/playerController.player";
+        if (File.Exists(path))
+        {
+            BinaryFormatter formatter = new BinaryFormatter();
+            FileStream stream = new FileStream(path, FileMode.Open);
 
-   		PlayerData data = formatter.Deserialize(stream) as PlayerData; 
-   		stream.Close(); 
+            PlayerData data = formatter.Deserialize(stream) as PlayerData;
+            stream.Close();
 
-   		return data;
-   	} 
-   	else 
-   	{
-   		Debug.LogError("Save file not found in" + path); 
-   		return null;
-   	}
-   
-   }
+            return data;
+        }
+        else
+        {
+            Debug.LogError("Save file not found in" + path);
+            return null;
+        }
+
+    }
 }

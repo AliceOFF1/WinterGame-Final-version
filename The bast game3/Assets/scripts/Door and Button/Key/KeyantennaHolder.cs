@@ -6,54 +6,54 @@ using UnityEngine;
 public class KeyantennaHolder : MonoBehaviour
 {
     public event EventHandler OnKeyantennasChanged;
-    private List<Keyantenna.KeyantennaType> keyantennaList; 
+    private List<Keyantenna.KeyantennaType> keyantennaList;
 
-    private void Awake() 
+    private void Awake()
     {
-    	keyantennaList = new List<Keyantenna.KeyantennaType>();
-    }  
+        keyantennaList = new List<Keyantenna.KeyantennaType>();
+    }
 
-    public List<Keyantenna.KeyantennaType> GetKeyantennaList() 
+    public List<Keyantenna.KeyantennaType> GetKeyantennaList()
     {
         return keyantennaList;
     }
 
-    public void AddKeyantenna(Keyantenna.KeyantennaType keyantennaType) 
-    { 
-    	keyantennaList.Add(keyantennaType); 
+    public void AddKeyantenna(Keyantenna.KeyantennaType keyantennaType)
+    {
+        keyantennaList.Add(keyantennaType);
         OnKeyantennasChanged?.Invoke(this, EventArgs.Empty);
-    } 
+    }
 
-    public void RemoveKeyantenna(Keyantenna.KeyantennaType keyantennaType) 
+    public void RemoveKeyantenna(Keyantenna.KeyantennaType keyantennaType)
     {
-    	keyantennaList.Remove(keyantennaType);
+        keyantennaList.Remove(keyantennaType);
         OnKeyantennasChanged?.Invoke(this, EventArgs.Empty);
-    } 
+    }
 
-    public bool ContainsKeyantenna(Keyantenna.KeyantennaType keyantennaType) 
+    public bool ContainsKeyantenna(Keyantenna.KeyantennaType keyantennaType)
     {
-    	return keyantennaList.Contains(keyantennaType);
-    } 
+        return keyantennaList.Contains(keyantennaType);
+    }
 
-    private void OnTriggerEnter2D(Collider2D collider) 
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-    	Keyantenna keyantenna = collider.GetComponent<Keyantenna>(); 
-    	if (keyantenna != null) 
-    	{
-    		AddKeyantenna(keyantenna.GetKeyantennaType()); 
-    		Destroy(keyantenna.gameObject);
-    	} 
+        Keyantenna keyantenna = collider.GetComponent<Keyantenna>();
+        if (keyantenna != null)
+        {
+            AddKeyantenna(keyantenna.GetKeyantennaType());
+            Destroy(keyantenna.gameObject);
+        }
 
-    	KeyantennaDoor keyantennaDoor = collider.GetComponent<KeyantennaDoor>(); 
-    	if (keyantennaDoor != null) 
-    	{
-    		if(ContainsKeyantenna(keyantennaDoor.GetKeyantennaType())) 
-    		{
-    			// Currently hplding key to open thus door 
-    			RemoveKeyantenna(keyantennaDoor.GetKeyantennaType());
-    			keyantennaDoor.OpenDoor(); 
+        KeyantennaDoor keyantennaDoor = collider.GetComponent<KeyantennaDoor>();
+        if (keyantennaDoor != null)
+        {
+            if (ContainsKeyantenna(keyantennaDoor.GetKeyantennaType()))
+            {
+                // Currently hplding key to open thus door 
+                RemoveKeyantenna(keyantennaDoor.GetKeyantennaType());
+                keyantennaDoor.OpenDoor();
 
-    		} 
-    	}
+            }
+        }
     }
 }

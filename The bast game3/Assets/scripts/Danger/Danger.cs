@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Danger : MonoBehaviour
-{ 
-	Rigidbody2D rb;
+{
+    Rigidbody2D rb;
     // Start is called before the first frame update
     void Start()
     {
@@ -12,20 +12,20 @@ public class Danger : MonoBehaviour
     }
 
     // Update is called once per frame
-    private void OnTriggerEnter2D (Collider2D collision)
-    { 
-    	if (collision.gameObject.name.Equals("Player")) 
-    	{
-    		rb.isKinematic = false;
-    	}
-        
-    } 
-
-    private void OnCollisionEnter2D(Collision2D collision) 
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-    	if (collision.gameObject.name.Equals("Player")) 
-    	{
-    		Debug.Log("GameOver");
-    	}
+        if (collision.gameObject.name.Equals("Player"))
+        {
+            rb.isKinematic = false;
+        }
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.name.Equals("Player"))
+        {
+            Debug.Log("GameOver");
+        }
     }
 }
